@@ -1,0 +1,4 @@
+south_korea
+usa
+denmark
+united_kingdom

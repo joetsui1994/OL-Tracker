@@ -33,3 +33,6 @@ Say you are interested in whether a specific country X is the OL. You are make i
 An example including options described above looks like
 
 ```Rscript --vanilla origin-tracker.R -d examples/arrival_dates.tsv -q examples/query_countries.txt```
+
+#### Notes
+- Run ```Rscript --vanilla origin-tracker.R -h``` to more details of available options
